@@ -1,0 +1,25 @@
+{
+  "name": "supergulp",
+  "version": "1.0.0",
+  "description": "Learn Gulp by building an awesome development environment",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aubepluieh3/supergulp.git"
+  },
+  "author": "soo",
+  "license": "ISC",
+  "scripts": {
+    "dev": "gulp dev",
+    "build": "gulp build"
+  },
+  "bugs": {
+    "url": "https://github.com/aubepluieh3/supergulp/issues"
+  },
+  "homepage": "https://github.com/aubepluieh3/supergulp#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "@babel/register": "^7.22.5",
+    "gulp": "^4.0.2"
+  }
+}
